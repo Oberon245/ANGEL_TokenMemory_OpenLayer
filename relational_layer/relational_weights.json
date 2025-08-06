@@ -1,0 +1,4592 @@
+[
+  {
+    "timestamp": "2025-08-05T17:50:15.958268",
+    "weights": [
+      {
+        "token": "USER:like",
+        "user_weight": 0.6,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:repo",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:an",
+        "user_weight": 0.0,
+        "ai_weight": 0.1111111111111111,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:simulation.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:of",
+        "user_weight": 0.6599999999999999,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:both",
+        "user_weight": 0.15,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:with.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:run",
+        "user_weight": 0.6,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:extend",
+        "user_weight": 0.0,
+        "ai_weight": 0.5,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:you",
+        "user_weight": 0.3,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:can",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:what",
+        "user_weight": 0.6,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:simulate",
+        "user_weight": 0.0,
+        "ai_weight": 0.25,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:today's",
+        "user_weight": 0.24,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:belongs",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:this",
+        "user_weight": 0.0,
+        "ai_weight": 0.5,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:let's",
+        "user_weight": 1.2,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:wondering",
+        "user_weight": 0.6,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:about",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:over",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:same",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:time.",
+        "user_weight": 0.0,
+        "ai_weight": 0.125,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:and",
+        "user_weight": 0.0,
+        "ai_weight": 0.1,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:just",
+        "user_weight": 0.15,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:us",
+        "user_weight": 0.0,
+        "ai_weight": 0.2,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:layer",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:existing",
+        "user_weight": 0.0,
+        "ai_weight": 0.25,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:gives",
+        "user_weight": 0.0,
+        "ai_weight": 0.25,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:sides",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:an",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:we",
+        "user_weight": 0.0,
+        "ai_weight": 0.5,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:in",
+        "user_weight": 0.0,
+        "ai_weight": 0.25,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:feels",
+        "user_weight": 1.2,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:weighting.",
+        "user_weight": 0.0,
+        "ai_weight": 0.1,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:salience",
+        "user_weight": 0.0,
+        "ai_weight": 0.2777777777777778,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:evolution",
+        "user_weight": 0.3,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:one?",
+        "user_weight": 0.09230769230769231,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:build",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:i'm",
+        "user_weight": 1.2,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:capturing",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:drift.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:the",
+        "user_weight": 0.36818181818181817,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:agreed.",
+        "user_weight": 0.0,
+        "ai_weight": 1.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:existing",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:the",
+        "user_weight": 0.0,
+        "ai_weight": 0.5333333333333333,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:repo",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:token",
+        "user_weight": 0.0,
+        "ai_weight": 0.2,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:content",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:should",
+        "user_weight": 1.2,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:add",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:relational",
+        "user_weight": 0.0,
+        "ai_weight": 0.3111111111111111,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:sides",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:yes,",
+        "user_weight": 0.0,
+        "ai_weight": 1.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:all",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:with",
+        "user_weight": 0.0,
+        "ai_weight": 0.25,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:capturing",
+        "user_weight": 0.0,
+        "ai_weight": 1.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:readme.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:through",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:a",
+        "user_weight": 0.3,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:think",
+        "user_weight": 0.24,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:conversation.",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:upgraded",
+        "user_weight": 0.0,
+        "ai_weight": 0.1,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:let's",
+        "user_weight": 0.0,
+        "ai_weight": 1.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:memory",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:insight",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:started",
+        "user_weight": 0.15,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:we",
+        "user_weight": 0.7714285714285714,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:or",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:new",
+        "user_weight": 0.24,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:into",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:both",
+        "user_weight": 0.0,
+        "ai_weight": 0.5,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "AI:mirrored",
+        "user_weight": 0.0,
+        "ai_weight": 0.125,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      },
+      {
+        "token": "USER:to",
+        "user_weight": 0.12,
+        "ai_weight": 0.0,
+        "timestamp": "2025-08-05T17:48:37.980055"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05T17:53:54.245021",
+    "weights": [
+      {
+        "token": "USER:like",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:repo",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:an",
+        "user_weight": 0.0,
+        "ai_weight": 0.1111111111111111
+      },
+      {
+        "token": "USER:simulation.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:of",
+        "user_weight": 0.6599999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:both",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:with.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:run",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:extend",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:you",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:can",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:what",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:simulate",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:today's",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:belongs",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "AI:this",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:let's",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:wondering",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:about",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:over",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:same",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:time.",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "AI:and",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "USER:just",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:us",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "AI:layer",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:existing",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:gives",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:sides",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:an",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:we",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:in",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:feels",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:weighting.",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:salience",
+        "user_weight": 0.0,
+        "ai_weight": 0.2777777777777778
+      },
+      {
+        "token": "USER:evolution",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:one?",
+        "user_weight": 0.09230769230769231,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:build",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:i'm",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:capturing",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:drift.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:the",
+        "user_weight": 0.36818181818181817,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:agreed.",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:existing",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:the",
+        "user_weight": 0.0,
+        "ai_weight": 0.5333333333333333
+      },
+      {
+        "token": "AI:repo",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:token",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "USER:content",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:should",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:add",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:relational",
+        "user_weight": 0.0,
+        "ai_weight": 0.3111111111111111
+      },
+      {
+        "token": "USER:sides",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:yes,",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:all",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:with",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:capturing",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:readme.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:through",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:a",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:think",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:conversation.",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:upgraded",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:let's",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:memory",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:insight",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "USER:started",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:we",
+        "user_weight": 0.7714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:or",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:new",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:into",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:both",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:mirrored",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "USER:to",
+        "user_weight": 0.12,
+        "ai_weight": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05T17:56:47.908617",
+    "weights": [
+      {
+        "token": "USER:like",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:repo",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:an",
+        "user_weight": 0.0,
+        "ai_weight": 0.1111111111111111
+      },
+      {
+        "token": "USER:simulation.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:of",
+        "user_weight": 0.6599999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:both",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:with.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:run",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:extend",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:you",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:can",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:what",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:simulate",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:today's",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:belongs",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "AI:this",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:let's",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:wondering",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:about",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:over",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:same",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:time.",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "AI:and",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "USER:just",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:us",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "AI:layer",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:existing",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:gives",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:sides",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:an",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:we",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:in",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:feels",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:weighting.",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:salience",
+        "user_weight": 0.0,
+        "ai_weight": 0.2777777777777778
+      },
+      {
+        "token": "USER:evolution",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:one?",
+        "user_weight": 0.09230769230769231,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:build",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:i'm",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:capturing",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:drift.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:the",
+        "user_weight": 0.36818181818181817,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:agreed.",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:existing",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:the",
+        "user_weight": 0.0,
+        "ai_weight": 0.5333333333333333
+      },
+      {
+        "token": "AI:repo",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:token",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "USER:content",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:should",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:add",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:relational",
+        "user_weight": 0.0,
+        "ai_weight": 0.3111111111111111
+      },
+      {
+        "token": "USER:sides",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:yes,",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:all",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:with",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:capturing",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:readme.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:through",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:a",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:think",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:conversation.",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:upgraded",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:let's",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:memory",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:insight",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "USER:started",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:we",
+        "user_weight": 0.7714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:or",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:new",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:into",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:both",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:mirrored",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "USER:to",
+        "user_weight": 0.12,
+        "ai_weight": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05T17:59:57.420759",
+    "weights": [
+      {
+        "token": "USER:like",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:repo",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:an",
+        "user_weight": 0.0,
+        "ai_weight": 0.1111111111111111
+      },
+      {
+        "token": "USER:simulation.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:of",
+        "user_weight": 0.6599999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:both",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:with.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:run",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:extend",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:you",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:can",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:what",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:simulate",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:today's",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:belongs",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "AI:this",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:let's",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:wondering",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:about",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:over",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:same",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:time.",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "AI:and",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "USER:just",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:us",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "AI:layer",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:existing",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:gives",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:sides",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:an",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:we",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:in",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:feels",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:weighting.",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:salience",
+        "user_weight": 0.0,
+        "ai_weight": 0.2777777777777778
+      },
+      {
+        "token": "USER:evolution",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:one?",
+        "user_weight": 0.09230769230769231,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:build",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:i'm",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:capturing",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:drift.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:the",
+        "user_weight": 0.36818181818181817,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:agreed.",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:existing",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:the",
+        "user_weight": 0.0,
+        "ai_weight": 0.5333333333333333
+      },
+      {
+        "token": "AI:repo",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:token",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "USER:content",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:should",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:add",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:relational",
+        "user_weight": 0.0,
+        "ai_weight": 0.3111111111111111
+      },
+      {
+        "token": "USER:sides",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:yes,",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:all",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:with",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:capturing",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:readme.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:through",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:a",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:think",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:conversation.",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:upgraded",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:let's",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:memory",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:insight",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "USER:started",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:we",
+        "user_weight": 0.7714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:or",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:new",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:into",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:both",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:mirrored",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "USER:to",
+        "user_weight": 0.12,
+        "ai_weight": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05T18:01:20.491322",
+    "user_stream": [
+      "Let's run all of today's content through the simulation.",
+      "Should we build a new repo or just add to the existing one?",
+      "I'm wondering what you think about capturing both sides of the conversation.",
+      "Feels like an evolution of what we started with."
+    ],
+    "ai_stream": [
+      "Yes, we can simulate relational salience over time.",
+      "Let's extend the existing token memory layer with relational weighting.",
+      "Capturing both sides gives us insight into mirrored salience and drift.",
+      "Agreed. This belongs in the same repo with an upgraded README."
+    ],
+    "weights": [
+      {
+        "token": "USER:like",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:repo",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:an",
+        "user_weight": 0.0,
+        "ai_weight": 0.1111111111111111
+      },
+      {
+        "token": "USER:simulation.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:of",
+        "user_weight": 0.6599999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:both",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:with.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:run",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:extend",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:you",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:can",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:what",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:simulate",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:today's",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:belongs",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "AI:this",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:let's",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:wondering",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:about",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:over",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:same",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:time.",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "AI:and",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "USER:just",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:us",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "AI:layer",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:existing",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:gives",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:sides",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:an",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:we",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:in",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:feels",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:weighting.",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:salience",
+        "user_weight": 0.0,
+        "ai_weight": 0.2777777777777778
+      },
+      {
+        "token": "USER:evolution",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:one?",
+        "user_weight": 0.09230769230769231,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:build",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:i'm",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:capturing",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:drift.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:the",
+        "user_weight": 0.36818181818181817,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:agreed.",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:existing",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:the",
+        "user_weight": 0.0,
+        "ai_weight": 0.5333333333333333
+      },
+      {
+        "token": "AI:repo",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:token",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "USER:content",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:should",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:add",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:relational",
+        "user_weight": 0.0,
+        "ai_weight": 0.3111111111111111
+      },
+      {
+        "token": "USER:sides",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:yes,",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:all",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:with",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:capturing",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:readme.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:through",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:a",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:think",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:conversation.",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:upgraded",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:let's",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:memory",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:insight",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "USER:started",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:we",
+        "user_weight": 0.7714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:or",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:new",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:into",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:both",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:mirrored",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "USER:to",
+        "user_weight": 0.12,
+        "ai_weight": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05T18:11:29.698846",
+    "weights": [
+      {
+        "timestamp": "2025-08-05T17:50:15.958268",
+        "weights": [
+          {
+            "token": "USER:like",
+            "user_weight": 0.6,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:repo",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:an",
+            "user_weight": 0.0,
+            "ai_weight": 0.1111111111111111,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:simulation.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:of",
+            "user_weight": 0.6599999999999999,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:both",
+            "user_weight": 0.15,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:with.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:run",
+            "user_weight": 0.6,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:extend",
+            "user_weight": 0.0,
+            "ai_weight": 0.5,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:you",
+            "user_weight": 0.3,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:can",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:what",
+            "user_weight": 0.6,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:simulate",
+            "user_weight": 0.0,
+            "ai_weight": 0.25,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:today's",
+            "user_weight": 0.24,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:belongs",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:this",
+            "user_weight": 0.0,
+            "ai_weight": 0.5,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:let's",
+            "user_weight": 1.2,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:wondering",
+            "user_weight": 0.6,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:about",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:over",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:same",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:time.",
+            "user_weight": 0.0,
+            "ai_weight": 0.125,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:and",
+            "user_weight": 0.0,
+            "ai_weight": 0.1,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:just",
+            "user_weight": 0.15,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:us",
+            "user_weight": 0.0,
+            "ai_weight": 0.2,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:layer",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:existing",
+            "user_weight": 0.0,
+            "ai_weight": 0.25,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:gives",
+            "user_weight": 0.0,
+            "ai_weight": 0.25,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:sides",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:an",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:we",
+            "user_weight": 0.0,
+            "ai_weight": 0.5,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:in",
+            "user_weight": 0.0,
+            "ai_weight": 0.25,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:feels",
+            "user_weight": 1.2,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:weighting.",
+            "user_weight": 0.0,
+            "ai_weight": 0.1,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:salience",
+            "user_weight": 0.0,
+            "ai_weight": 0.2777777777777778,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:evolution",
+            "user_weight": 0.3,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:one?",
+            "user_weight": 0.09230769230769231,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:build",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:i'm",
+            "user_weight": 1.2,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:capturing",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:drift.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:the",
+            "user_weight": 0.36818181818181817,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:agreed.",
+            "user_weight": 0.0,
+            "ai_weight": 1.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:existing",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:the",
+            "user_weight": 0.0,
+            "ai_weight": 0.5333333333333333,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:repo",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:token",
+            "user_weight": 0.0,
+            "ai_weight": 0.2,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:content",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:should",
+            "user_weight": 1.2,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:add",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:relational",
+            "user_weight": 0.0,
+            "ai_weight": 0.3111111111111111,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:sides",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:yes,",
+            "user_weight": 0.0,
+            "ai_weight": 1.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:all",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:with",
+            "user_weight": 0.0,
+            "ai_weight": 0.25,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:capturing",
+            "user_weight": 0.0,
+            "ai_weight": 1.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:readme.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:through",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:a",
+            "user_weight": 0.3,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:think",
+            "user_weight": 0.24,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:conversation.",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:upgraded",
+            "user_weight": 0.0,
+            "ai_weight": 0.1,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:let's",
+            "user_weight": 0.0,
+            "ai_weight": 1.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:memory",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:insight",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:started",
+            "user_weight": 0.15,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:we",
+            "user_weight": 0.7714285714285714,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:or",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:new",
+            "user_weight": 0.24,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:into",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:both",
+            "user_weight": 0.0,
+            "ai_weight": 0.5,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "AI:mirrored",
+            "user_weight": 0.0,
+            "ai_weight": 0.125,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          },
+          {
+            "token": "USER:to",
+            "user_weight": 0.12,
+            "ai_weight": 0.0,
+            "timestamp": "2025-08-05T17:48:37.980055"
+          }
+        ],
+        "user_stream": NaN,
+        "ai_stream": NaN
+      },
+      {
+        "timestamp": "2025-08-05T17:53:54.245021",
+        "weights": [
+          {
+            "token": "USER:like",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:repo",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:an",
+            "user_weight": 0.0,
+            "ai_weight": 0.1111111111111111
+          },
+          {
+            "token": "USER:simulation.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:of",
+            "user_weight": 0.6599999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:both",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:with.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:run",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:extend",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "USER:you",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:can",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "USER:what",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:simulate",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "USER:today's",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:belongs",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "AI:this",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "USER:let's",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:wondering",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:about",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:over",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:same",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "AI:time.",
+            "user_weight": 0.0,
+            "ai_weight": 0.125
+          },
+          {
+            "token": "AI:and",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "USER:just",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:us",
+            "user_weight": 0.0,
+            "ai_weight": 0.2
+          },
+          {
+            "token": "AI:layer",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:existing",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:gives",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:sides",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "USER:an",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:we",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "AI:in",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "USER:feels",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:weighting.",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "AI:salience",
+            "user_weight": 0.0,
+            "ai_weight": 0.2777777777777778
+          },
+          {
+            "token": "USER:evolution",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:one?",
+            "user_weight": 0.09230769230769231,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:build",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:i'm",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:capturing",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:drift.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091
+          },
+          {
+            "token": "USER:the",
+            "user_weight": 0.36818181818181817,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:agreed.",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "USER:existing",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:the",
+            "user_weight": 0.0,
+            "ai_weight": 0.5333333333333333
+          },
+          {
+            "token": "AI:repo",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:token",
+            "user_weight": 0.0,
+            "ai_weight": 0.2
+          },
+          {
+            "token": "USER:content",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:should",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:add",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:relational",
+            "user_weight": 0.0,
+            "ai_weight": 0.3111111111111111
+          },
+          {
+            "token": "USER:sides",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:yes,",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "USER:all",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:with",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:capturing",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "AI:readme.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091
+          },
+          {
+            "token": "USER:through",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:a",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:think",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:conversation.",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:upgraded",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "AI:let's",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "AI:memory",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "AI:insight",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "USER:started",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:we",
+            "user_weight": 0.7714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:or",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:new",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:into",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:both",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "AI:mirrored",
+            "user_weight": 0.0,
+            "ai_weight": 0.125
+          },
+          {
+            "token": "USER:to",
+            "user_weight": 0.12,
+            "ai_weight": 0.0
+          }
+        ],
+        "user_stream": NaN,
+        "ai_stream": NaN
+      },
+      {
+        "timestamp": "2025-08-05T17:56:47.908617",
+        "weights": [
+          {
+            "token": "USER:like",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:repo",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:an",
+            "user_weight": 0.0,
+            "ai_weight": 0.1111111111111111
+          },
+          {
+            "token": "USER:simulation.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:of",
+            "user_weight": 0.6599999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:both",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:with.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:run",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:extend",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "USER:you",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:can",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "USER:what",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:simulate",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "USER:today's",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:belongs",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "AI:this",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "USER:let's",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:wondering",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:about",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:over",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:same",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "AI:time.",
+            "user_weight": 0.0,
+            "ai_weight": 0.125
+          },
+          {
+            "token": "AI:and",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "USER:just",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:us",
+            "user_weight": 0.0,
+            "ai_weight": 0.2
+          },
+          {
+            "token": "AI:layer",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:existing",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:gives",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:sides",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "USER:an",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:we",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "AI:in",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "USER:feels",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:weighting.",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "AI:salience",
+            "user_weight": 0.0,
+            "ai_weight": 0.2777777777777778
+          },
+          {
+            "token": "USER:evolution",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:one?",
+            "user_weight": 0.09230769230769231,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:build",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:i'm",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:capturing",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:drift.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091
+          },
+          {
+            "token": "USER:the",
+            "user_weight": 0.36818181818181817,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:agreed.",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "USER:existing",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:the",
+            "user_weight": 0.0,
+            "ai_weight": 0.5333333333333333
+          },
+          {
+            "token": "AI:repo",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:token",
+            "user_weight": 0.0,
+            "ai_weight": 0.2
+          },
+          {
+            "token": "USER:content",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:should",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:add",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:relational",
+            "user_weight": 0.0,
+            "ai_weight": 0.3111111111111111
+          },
+          {
+            "token": "USER:sides",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:yes,",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "USER:all",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:with",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:capturing",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "AI:readme.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091
+          },
+          {
+            "token": "USER:through",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:a",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:think",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:conversation.",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:upgraded",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "AI:let's",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "AI:memory",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "AI:insight",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "USER:started",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:we",
+            "user_weight": 0.7714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:or",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:new",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:into",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:both",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "AI:mirrored",
+            "user_weight": 0.0,
+            "ai_weight": 0.125
+          },
+          {
+            "token": "USER:to",
+            "user_weight": 0.12,
+            "ai_weight": 0.0
+          }
+        ],
+        "user_stream": NaN,
+        "ai_stream": NaN
+      },
+      {
+        "timestamp": "2025-08-05T17:59:57.420759",
+        "weights": [
+          {
+            "token": "USER:like",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:repo",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:an",
+            "user_weight": 0.0,
+            "ai_weight": 0.1111111111111111
+          },
+          {
+            "token": "USER:simulation.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:of",
+            "user_weight": 0.6599999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:both",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:with.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:run",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:extend",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "USER:you",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:can",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "USER:what",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:simulate",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "USER:today's",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:belongs",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "AI:this",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "USER:let's",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:wondering",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:about",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:over",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:same",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "AI:time.",
+            "user_weight": 0.0,
+            "ai_weight": 0.125
+          },
+          {
+            "token": "AI:and",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "USER:just",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:us",
+            "user_weight": 0.0,
+            "ai_weight": 0.2
+          },
+          {
+            "token": "AI:layer",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:existing",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:gives",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:sides",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "USER:an",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:we",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "AI:in",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "USER:feels",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:weighting.",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "AI:salience",
+            "user_weight": 0.0,
+            "ai_weight": 0.2777777777777778
+          },
+          {
+            "token": "USER:evolution",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:one?",
+            "user_weight": 0.09230769230769231,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:build",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:i'm",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:capturing",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:drift.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091
+          },
+          {
+            "token": "USER:the",
+            "user_weight": 0.36818181818181817,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:agreed.",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "USER:existing",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:the",
+            "user_weight": 0.0,
+            "ai_weight": 0.5333333333333333
+          },
+          {
+            "token": "AI:repo",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:token",
+            "user_weight": 0.0,
+            "ai_weight": 0.2
+          },
+          {
+            "token": "USER:content",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:should",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:add",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:relational",
+            "user_weight": 0.0,
+            "ai_weight": 0.3111111111111111
+          },
+          {
+            "token": "USER:sides",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:yes,",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "USER:all",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:with",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:capturing",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "AI:readme.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091
+          },
+          {
+            "token": "USER:through",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:a",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:think",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:conversation.",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:upgraded",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "AI:let's",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "AI:memory",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "AI:insight",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "USER:started",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:we",
+            "user_weight": 0.7714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:or",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:new",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:into",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:both",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "AI:mirrored",
+            "user_weight": 0.0,
+            "ai_weight": 0.125
+          },
+          {
+            "token": "USER:to",
+            "user_weight": 0.12,
+            "ai_weight": 0.0
+          }
+        ],
+        "user_stream": NaN,
+        "ai_stream": NaN
+      },
+      {
+        "timestamp": "2025-08-05T18:01:20.491322",
+        "weights": [
+          {
+            "token": "USER:like",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:repo",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:an",
+            "user_weight": 0.0,
+            "ai_weight": 0.1111111111111111
+          },
+          {
+            "token": "USER:simulation.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:of",
+            "user_weight": 0.6599999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:both",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:with.",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:run",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:extend",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "USER:you",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:can",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "USER:what",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:simulate",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "USER:today's",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:belongs",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "AI:this",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "USER:let's",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:wondering",
+            "user_weight": 0.6,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:about",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:over",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:same",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "AI:time.",
+            "user_weight": 0.0,
+            "ai_weight": 0.125
+          },
+          {
+            "token": "AI:and",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "USER:just",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:us",
+            "user_weight": 0.0,
+            "ai_weight": 0.2
+          },
+          {
+            "token": "AI:layer",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:existing",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:gives",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:sides",
+            "user_weight": 0.0,
+            "ai_weight": 0.3333333333333333
+          },
+          {
+            "token": "USER:an",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:we",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "AI:in",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "USER:feels",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:weighting.",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "AI:salience",
+            "user_weight": 0.0,
+            "ai_weight": 0.2777777777777778
+          },
+          {
+            "token": "USER:evolution",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:one?",
+            "user_weight": 0.09230769230769231,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:build",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:i'm",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:capturing",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:drift.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091
+          },
+          {
+            "token": "USER:the",
+            "user_weight": 0.36818181818181817,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:agreed.",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "USER:existing",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:the",
+            "user_weight": 0.0,
+            "ai_weight": 0.5333333333333333
+          },
+          {
+            "token": "AI:repo",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:token",
+            "user_weight": 0.0,
+            "ai_weight": 0.2
+          },
+          {
+            "token": "USER:content",
+            "user_weight": 0.19999999999999998,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:should",
+            "user_weight": 1.2,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:add",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:relational",
+            "user_weight": 0.0,
+            "ai_weight": 0.3111111111111111
+          },
+          {
+            "token": "USER:sides",
+            "user_weight": 0.13333333333333333,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:yes,",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "USER:all",
+            "user_weight": 0.39999999999999997,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:with",
+            "user_weight": 0.0,
+            "ai_weight": 0.25
+          },
+          {
+            "token": "AI:capturing",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "AI:readme.",
+            "user_weight": 0.0,
+            "ai_weight": 0.09090909090909091
+          },
+          {
+            "token": "USER:through",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:a",
+            "user_weight": 0.3,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:think",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:conversation.",
+            "user_weight": 0.09999999999999999,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:upgraded",
+            "user_weight": 0.0,
+            "ai_weight": 0.1
+          },
+          {
+            "token": "AI:let's",
+            "user_weight": 0.0,
+            "ai_weight": 1.0
+          },
+          {
+            "token": "AI:memory",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "AI:insight",
+            "user_weight": 0.0,
+            "ai_weight": 0.16666666666666666
+          },
+          {
+            "token": "USER:started",
+            "user_weight": 0.15,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:we",
+            "user_weight": 0.7714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:or",
+            "user_weight": 0.1714285714285714,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "USER:new",
+            "user_weight": 0.24,
+            "ai_weight": 0.0
+          },
+          {
+            "token": "AI:into",
+            "user_weight": 0.0,
+            "ai_weight": 0.14285714285714285
+          },
+          {
+            "token": "AI:both",
+            "user_weight": 0.0,
+            "ai_weight": 0.5
+          },
+          {
+            "token": "AI:mirrored",
+            "user_weight": 0.0,
+            "ai_weight": 0.125
+          },
+          {
+            "token": "USER:to",
+            "user_weight": 0.12,
+            "ai_weight": 0.0
+          }
+        ],
+        "user_stream": [
+          "Let's run all of today's content through the simulation.",
+          "Should we build a new repo or just add to the existing one?",
+          "I'm wondering what you think about capturing both sides of the conversation.",
+          "Feels like an evolution of what we started with."
+        ],
+        "ai_stream": [
+          "Yes, we can simulate relational salience over time.",
+          "Let's extend the existing token memory layer with relational weighting.",
+          "Capturing both sides gives us insight into mirrored salience and drift.",
+          "Agreed. This belongs in the same repo with an upgraded README."
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05T18:11:29.763482",
+    "user_stream": [
+      "Let's run all of today's content through the simulation.",
+      "Should we build a new repo or just add to the existing one?",
+      "I'm wondering what you think about capturing both sides of the conversation.",
+      "Feels like an evolution of what we started with."
+    ],
+    "ai_stream": [
+      "Yes, we can simulate relational salience over time.",
+      "Let's extend the existing token memory layer with relational weighting.",
+      "Capturing both sides gives us insight into mirrored salience and drift.",
+      "Agreed. This belongs in the same repo with an upgraded README."
+    ],
+    "weights": [
+      {
+        "token": "USER:like",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:repo",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:an",
+        "user_weight": 0.0,
+        "ai_weight": 0.1111111111111111
+      },
+      {
+        "token": "USER:simulation.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:of",
+        "user_weight": 0.6599999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:both",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:with.",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:run",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:extend",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:you",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:can",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:what",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:simulate",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:today's",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:belongs",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "AI:this",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "USER:let's",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:wondering",
+        "user_weight": 0.6,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:about",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:over",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:same",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:time.",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "AI:and",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "USER:just",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:us",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "AI:layer",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:existing",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:gives",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:sides",
+        "user_weight": 0.0,
+        "ai_weight": 0.3333333333333333
+      },
+      {
+        "token": "USER:an",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:we",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:in",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "USER:feels",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:weighting.",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:salience",
+        "user_weight": 0.0,
+        "ai_weight": 0.2777777777777778
+      },
+      {
+        "token": "USER:evolution",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:one?",
+        "user_weight": 0.09230769230769231,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:build",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:i'm",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:capturing",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:drift.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:the",
+        "user_weight": 0.36818181818181817,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:agreed.",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:existing",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:the",
+        "user_weight": 0.0,
+        "ai_weight": 0.5333333333333333
+      },
+      {
+        "token": "AI:repo",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:token",
+        "user_weight": 0.0,
+        "ai_weight": 0.2
+      },
+      {
+        "token": "USER:content",
+        "user_weight": 0.19999999999999998,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:should",
+        "user_weight": 1.2,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:add",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:relational",
+        "user_weight": 0.0,
+        "ai_weight": 0.3111111111111111
+      },
+      {
+        "token": "USER:sides",
+        "user_weight": 0.13333333333333333,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:yes,",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "USER:all",
+        "user_weight": 0.39999999999999997,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:with",
+        "user_weight": 0.0,
+        "ai_weight": 0.25
+      },
+      {
+        "token": "AI:capturing",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:readme.",
+        "user_weight": 0.0,
+        "ai_weight": 0.09090909090909091
+      },
+      {
+        "token": "USER:through",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:a",
+        "user_weight": 0.3,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:think",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:conversation.",
+        "user_weight": 0.09999999999999999,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:upgraded",
+        "user_weight": 0.0,
+        "ai_weight": 0.1
+      },
+      {
+        "token": "AI:let's",
+        "user_weight": 0.0,
+        "ai_weight": 1.0
+      },
+      {
+        "token": "AI:memory",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "AI:insight",
+        "user_weight": 0.0,
+        "ai_weight": 0.16666666666666666
+      },
+      {
+        "token": "USER:started",
+        "user_weight": 0.15,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:we",
+        "user_weight": 0.7714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:or",
+        "user_weight": 0.1714285714285714,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "USER:new",
+        "user_weight": 0.24,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "AI:into",
+        "user_weight": 0.0,
+        "ai_weight": 0.14285714285714285
+      },
+      {
+        "token": "AI:both",
+        "user_weight": 0.0,
+        "ai_weight": 0.5
+      },
+      {
+        "token": "AI:mirrored",
+        "user_weight": 0.0,
+        "ai_weight": 0.125
+      },
+      {
+        "token": "USER:to",
+        "user_weight": 0.12,
+        "ai_weight": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05T18:35:59.365051",
+    "weights": [
+      {
+        "token": "a",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "about",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "add",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "agreed.",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "all",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "an",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "and",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "belongs",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "both",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "build",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "can",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "capturing",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "content",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "conversation.",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "drift.",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "evolution",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "existing",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "extend",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "feels",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "gives",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "i'm",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "in",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "insight",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "into",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "just",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "layer",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "let's",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "like",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "memory",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "mirrored",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "new",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "of",
+        "user_weight": 0.06976744186046512,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "one?",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "or",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "over",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "readme.",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "relational",
+        "user_weight": 0.0,
+        "ai_weight": 0.05
+      },
+      {
+        "token": "repo",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "run",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "salience",
+        "user_weight": 0.0,
+        "ai_weight": 0.05
+      },
+      {
+        "token": "same",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "should",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "sides",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "simulate",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "simulation.",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "started",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "the",
+        "user_weight": 0.06976744186046512,
+        "ai_weight": 0.05
+      },
+      {
+        "token": "think",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "this",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "through",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "time.",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "to",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "today's",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "token",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "upgraded",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "us",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "we",
+        "user_weight": 0.046511627906976744,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "weighting.",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "what",
+        "user_weight": 0.046511627906976744,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "with",
+        "user_weight": 0.0,
+        "ai_weight": 0.05
+      },
+      {
+        "token": "with.",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "wondering",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      },
+      {
+        "token": "yes,",
+        "user_weight": 0.0,
+        "ai_weight": 0.025
+      },
+      {
+        "token": "you",
+        "user_weight": 0.023255813953488372,
+        "ai_weight": 0.0
+      }
+    ]
+  }
+]
